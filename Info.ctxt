@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Info
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Info\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Info()
+comment1.text=\r\n\ Info\ creats\ a\ black\ box\ at\ the\ top\ of\ the\ world,\ and\ sets\ the\ score\ and\ time\ to\ 0\r\n
+comment2.params=
+comment2.target=void\ displayScore()
+comment2.text=\r\n\ display\ score\ checks\ score\ and\ displays\ it\ for\ the\ player\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ \r\n\ @return\ nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Info\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment4.params=Time
+comment4.target=void\ setTime(int)
+comment4.text=\r\n\ setTime\ sets\ Time\ equal\ to\ Time\r\n\ \r\n\ @param\ Time\ \=\ int\ Time\r\n\ \r\n\ @return\ nothing\ is\ returned\r\n
+numComments=5

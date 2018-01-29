@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=World1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ World1\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=World1()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ World1.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ fixWorld()
+comment2.text=\r\n\ fixWorld\ completely\ remakes\ the\ world\r\n\ \r\n\ @param\ Info\ creates\ a\ new\ info\ object\r\n\ \r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ act\ checks\ is\ the\ game\ has\ been\ started\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ \r\n\ @return\ nothing\ returned\r\n
+comment4.params=
+comment4.target=boolean\ getStarted()
+comment4.text=\r\n\ getStarted\ returns\ startGame\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ \r\n\ @return\ startGame\r\n
+comment5.params=
+comment5.target=void\ checkKeyPressed()
+comment5.text=\r\n\ checkKeyPressed\ checks\ if\ the\ space\ key\ is\ pressed\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ \r\n\ @return\ if\ the\ space\ key\ is\ pressed\r\n
+comment6.params=howMany
+comment6.target=void\ randomWalls(int)
+comment6.text=\r\n\ randomWalls\ adds\ specified\ number\ of\ walls\ randomly\ to\ the\ world\r\n\ \r\n\ @param\ x\ defins\ X\ cordinate\ (randomized\ per\ wall)\r\n\ @param\ y\ defins\ Y\ cordinate\ (randomized\ per\ wall)\r\n\ \r\n\ @return\ nothing\ returned\r\n
+comment7.params=s
+comment7.target=void\ setStarted(boolean)
+numComments=8
